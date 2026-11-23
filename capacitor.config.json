@@ -1,0 +1,9 @@
+{
+  "appId": "win.coldhao.chimera",
+  "appName": "Chimera",
+  "webDir": "www",
+  "server": {
+    "url": "https://forum.coldhao.win",
+    "cleartext": false
+  }
+}
